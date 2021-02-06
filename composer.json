@@ -1,0 +1,18 @@
+{
+    "name": "sune/diyyick",
+    "description": "PHP MVC Framework",
+    "type": "library",
+    "license": "Apache License",
+    "authors": [
+        {
+            "name": "Sune Jack",
+            "email": "sunejack1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Diyyick\\": "./"
+        }
+    },
+    "require": {}
+}
