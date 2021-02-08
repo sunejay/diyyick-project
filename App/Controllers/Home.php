@@ -1,5 +1,6 @@
 <?php
 namespace Diyyick\App\Controllers;
+
 use Diyyick\Lib\Core\Controller;
 use Diyyick\Lib\Core\Response;
 use Diyyick\Lib\Core\Request;
